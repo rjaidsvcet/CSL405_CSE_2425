@@ -1,5 +1,5 @@
 # Skill based Lab : Python Programming - A.Y. 2024-25
-CSL405 important experiments for python programming with their implementations for department of Computer Science Engineering - Data Science.
+CSL405 important experiments for skill based lab of python programming with their implementations for department of Computer Science Engineering - Data Science.
 
 List of experiments is as follows :
 - Experiment 01 ~ To explore basic data types of python like string, list, dictionaries, tuple.
